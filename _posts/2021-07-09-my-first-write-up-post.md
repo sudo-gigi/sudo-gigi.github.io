@@ -7,6 +7,7 @@ Welcome to the <a href="https://www.tryhackme.com/room/agentsudoctf">Agent Sudo<
 ![image](https://user-images.githubusercontent.com/87175527/125082799-8b936480-e0bf-11eb-975b-2e6e219e97cf.png)
 
 <h1>Enumerate</h1>
+
  We'll use nmap to scan.
 
 
