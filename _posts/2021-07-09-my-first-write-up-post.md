@@ -78,25 +78,30 @@ Voila!!
 ![image](https://user-images.githubusercontent.com/87175527/125116465-a926f500-e0e4-11eb-91bc-6cba582198ce.png)
 
 What is the incident of the photo called?
+
 When i googled alien-autopsy i found the answer to be Roswell alien autopsy
+
 
 ![image](https://user-images.githubusercontent.com/87175527/125117235-d7f19b00-e0e5-11eb-8d9f-a941440f79c5.png)
 
 
 <h1>Privilege Escalation</h1>
 
+For this we'll use the sudo -l command to check for sudo permissions.
 
 
+![image](https://user-images.githubusercontent.com/87175527/125118073-18054d80-e0e7-11eb-9311-b588966b4c46.png)
+
+I had to google “(ALL, !root)” and found this https://www.exploit-db.com/exploits/47502 
+
+<strong>CVE-2019-14287</strong>
+
+Next use command sudo -u#-1 /bin/bash and then ls -al /root.
+
+![image](https://user-images.githubusercontent.com/87175527/125120104-e9d53d00-e0e9-11eb-993f-31206855c9a0.png)
 
 
-
-
-
-
-
-
-
-
+I hope you enjoyed this room as much as i did.
 
 
 
