@@ -60,7 +60,37 @@ So we have the password alien, we then use the "7z x 8702.zip" command and after
 
 ![image](https://user-images.githubusercontent.com/87175527/125114117-6fa0ba80-e0e1-11eb-878e-3ae5fc1bdad3.png)
 
-Using cyberchef we decoded QXJlYTUx to Area51
+Using cyberchef we decoded QXJlYTUx to Area51 which is the steg password.
+
+![image](https://user-images.githubusercontent.com/87175527/125114778-52202080-e0e2-11eb-8b1f-b0880accaf05.png)
+
+
+Next, we'll use steghide on cute-alien.jpg
+
+![image](https://user-images.githubusercontent.com/87175527/125115459-43863900-e0e3-11eb-8d9e-8ba4e2908a74.png)
+
+As we see the name of the agent is james, we'll SSH into the machine using the username and password.
+
+![image](https://user-images.githubusercontent.com/87175527/125116206-47ff2180-e0e4-11eb-9fb6-aaeb4db99c80.png)
+
+Voila!!
+
+![image](https://user-images.githubusercontent.com/87175527/125116465-a926f500-e0e4-11eb-91bc-6cba582198ce.png)
+
+What is the incident of the photo called?
+When i googled alien-autopsy i found the answer to be Roswell alien autopsy
+
+![image](https://user-images.githubusercontent.com/87175527/125117235-d7f19b00-e0e5-11eb-8d9f-a941440f79c5.png)
+
+
+<h1>Privilege Escalation</h1>
+
+
+
+
+
+
+
 
 
 
