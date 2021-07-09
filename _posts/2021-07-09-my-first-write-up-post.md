@@ -7,7 +7,7 @@ Welcome to the <a href="https://www.tryhackme.com/room/agentsudoctf">Agent Sudo<
 ![image](https://user-images.githubusercontent.com/87175527/125082799-8b936480-e0bf-11eb-975b-2e6e219e97cf.png)
 
 <h1>Enumerate</h1>
-We'll use nmap to scan.
+ We'll use nmap to scan.
 
 
 -sV attempts to determine the version of the service running on port,
@@ -105,7 +105,7 @@ Voila!!
 What is the incident of the photo called?
 
 
-When i googled alien-autopsy i found the answer to be Roswell alien autopsy.
+When i googled alien-autopsy i found the answer to be <strong>Roswell alien autopsy</strong>.
 
 
 ![image](https://user-images.githubusercontent.com/87175527/125117235-d7f19b00-e0e5-11eb-8d9f-a941440f79c5.png)
