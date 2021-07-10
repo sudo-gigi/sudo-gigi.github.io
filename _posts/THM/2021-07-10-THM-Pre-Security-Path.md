@@ -27,5 +27,51 @@ So we're going to be hacking <strong>BookFace</strong>, TryHackMe's vulnerable s
 
 ![image](https://user-images.githubusercontent.com/87175527/125161076-22bbf300-e178-11eb-9a00-b190eca6b608.png))
 
+S lets begin
+
+![image](https://user-images.githubusercontent.com/87175527/125163838-ee9bfe80-e186-11eb-83e7-4a6f6db2ffc0.png)
+We can see the username on there
+
+Next we'll type in the username and click reset password
+
+![image](https://user-images.githubusercontent.com/87175527/125163891-2c992280-e187-11eb-936b-9b53466c0659.png)
+
+A code has been sent, but we don't have access to that code
+
+![image](https://user-images.githubusercontent.com/87175527/125163936-76820880-e187-11eb-8459-952e1d1d46e3.png)
+
+We'll try inputting any random code
+
+![image](https://user-images.githubusercontent.com/87175527/125163982-a8936a80-e187-11eb-941e-e270546e7347.png)
+
+![image](https://user-images.githubusercontent.com/87175527/125164070-40915400-e188-11eb-9a05-227ca14fd600.png)
+
+Scroll down to find the web request repeater and input 1 and 10000 as seen below then click bruteforce
+
+![image](https://user-images.githubusercontent.com/87175527/125164132-9cf47380-e188-11eb-800e-7a29b529fada.png)
+
+![image](https://user-images.githubusercontent.com/87175527/125164204-f9579300-e188-11eb-8a59-339206bfd26c.png)
+
+Voila!!
+
+![image](https://user-images.githubusercontent.com/87175527/125164273-463b6980-e189-11eb-8273-472c0f8ecb07.png)
+
+
+
+# [Task 2] Network Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
