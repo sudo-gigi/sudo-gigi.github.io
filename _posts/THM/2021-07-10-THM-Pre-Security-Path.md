@@ -110,7 +110,7 @@ Voila!!
 ![image](https://user-images.githubusercontent.com/87175527/125258356-2c6b6500-e2f6-11eb-9944-351295c2c786.png)
 
 
-There's really nothing todo here, just readthe above and click on correct answer.
+There's really nothing to do here, just read the above and click on 'correct answer'.
 
 
 ![image](https://user-images.githubusercontent.com/87175527/125258605-6c324c80-e2f6-11eb-91a2-6c4a7447a790.png)
