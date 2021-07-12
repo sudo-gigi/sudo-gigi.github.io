@@ -11,7 +11,7 @@ featured-image-alt: Pre Security Path
 ![image](https://user-images.githubusercontent.com/87175527/125160406-96f49780-e174-11eb-8319-212c534ed894.png)
 
 
-This is a write-up about the path : [Try Hack Me - Path : Pre Security](https://tryhackme.com/paths)
+This is a write-up about the path : [Try Hack Me - Path : Pre Security](https://tryhackme.com/path/outline/presecurity)
 
 We'll begin with the Learning CyberSecurity room  : [Try Hack Me - Room : Learning CyberSecurity](https://tryhackme.com/room/beginnerpathintro)
 
