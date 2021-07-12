@@ -26,7 +26,7 @@ This is a free room, which means anyone can deploy virtual machines in the room 
 ![Task 1](https://user-images.githubusercontent.com/87175527/125160923-4e8aa900-e177-11eb-844d-cb282975a0a7.png)
 
 
-we're going to be hacking <strong>BookFace</strong>, TryHackMe's vulnerable social media site.
+We're going to be hacking <strong>BookFace</strong>, TryHackMe's vulnerable social media site.
 
 
 ![image](https://user-images.githubusercontent.com/87175527/125161076-22bbf300-e178-11eb-9a00-b190eca6b608.png))
