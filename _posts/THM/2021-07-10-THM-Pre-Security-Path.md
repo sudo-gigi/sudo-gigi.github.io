@@ -83,6 +83,9 @@ Voila!!
 
 
 
+
+
+
 # [Task 2] Network Security
 
 
@@ -95,17 +98,22 @@ Voila!!
 
 ![image](https://user-images.githubusercontent.com/87175527/125164550-c4e4d680-e18a-11eb-8e79-a9cc104dcf2d.png)
 
+
 ![image](https://user-images.githubusercontent.com/87175527/125257553-70aa3580-e2f5-11eb-8670-426760f88a08.png)
 
 
 
 
+# [Task 3] Learning Roadmap
 
 
+![image](https://user-images.githubusercontent.com/87175527/125258356-2c6b6500-e2f6-11eb-9944-351295c2c786.png)
 
 
+There's really nothing todo here, just readthe above and click on correct answer.
 
 
+![image](https://user-images.githubusercontent.com/87175527/125258605-6c324c80-e2f6-11eb-91a2-6c4a7447a790.png)
 
 
-
+That concludes the <strong>Learning Cyber Security</strong> room in the <strong>Pre Security</strong> path.
